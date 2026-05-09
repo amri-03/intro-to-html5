@@ -1,5 +1,6 @@
-# sample
-It's for the practice and testing purpose only.
+# Introduction-to-HTML5
+
+Assignments and projects completed during the Coursera course.
 
 ## Project
 
